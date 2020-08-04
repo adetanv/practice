@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "APIcalling"
+    }
+  },
+  "defaultProject": "APIcalling",
+  "cli": {
+    "analytics": false
+  }
 }
